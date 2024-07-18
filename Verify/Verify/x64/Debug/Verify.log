@@ -1,0 +1,5 @@
+﻿  Verify.c
+D:\Verify\Verify\Verify.c(160,60): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Verify\Verify\Verify.c(163,56): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+     Creating library D:\Verify\x64\Debug\Verify.lib and object D:\Verify\x64\Debug\Verify.exp
+  Verify.vcxproj -> D:\Verify\x64\Debug\Verify.dll
