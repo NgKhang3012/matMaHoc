@@ -1,0 +1,4 @@
+﻿  Sign.c
+D:\Sign\Sign\Sign.c(159,61): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Sign\Sign\Sign.c(162,57): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Sign.vcxproj -> D:\Sign\x64\Debug\Sign.dll
